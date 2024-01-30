@@ -1,4 +1,4 @@
-#<center>Booking App</center>
+# Booking App
 
 ## Introduction
 
